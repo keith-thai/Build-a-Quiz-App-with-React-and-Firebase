@@ -1,4 +1,4 @@
-# Build a Quiz App with React and Firebase
+# Build a Quiz App with React and Firebase ### KTT added this
 
 ![Cover Image](./images/cover.png)
 
